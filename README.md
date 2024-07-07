@@ -8,3 +8,9 @@ Remember to use your own api key and make sure your CHATGPT limit is not exceede
 
 Enjoy.
 
+![sample image 5](https://github.com/okanolgun/FinancialStockAssistantChatbotChatGPT/assets/98118524/92810403-a9fb-4727-978c-946789093667)
+
+![sample image 3](https://github.com/okanolgun/FinancialStockAssistantChatbotChatGPT/assets/98118524/f551550d-358f-4447-8c0d-a97651763c41)
+
+![sample image 1](https://github.com/okanolgun/FinancialStockAssistantChatbotChatGPT/assets/98118524/8f279c71-7f8a-4ec5-a1cf-f9fc642529ef)
+
